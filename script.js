@@ -30,10 +30,27 @@ document.addEventListener("DOMContentLoaded", () => {
                 <p><strong>📖 Ayah:</strong> ${found.ayah}</p>
                 <p><strong>🌎 Translation:</strong> ${found.translation}</p>
                 <p><strong>📚 Tafseer:</strong> ${found.tafseer}</p>
+                <p>Click on any Arabic word to see its root structure.</p>
+                <p>${highlightArabicWords(found.ayah)}</p>
             `;
+            attachClickEvents();
         } else {
             resultBox.innerHTML = "<p class='placeholder'>No results found.</p>";
         }
+    }
+
+    // Arabic words highlighting function
+    function highlightArabicWords(text) {
+        return text.split(" ").map(word => `<span class='arabic-word'>${word}</span>`).join(" ");
+    }
+
+    // Attach click events to Arabic words
+    function attachClickEvents() {
+        document.querySelectorAll(".arabic-word").forEach(word => {
+            word.addEventListener("click", () => {
+                alert(`Root structure of: ${word.innerText}`);
+            });
+        });
     }
 
     // Button event listener
