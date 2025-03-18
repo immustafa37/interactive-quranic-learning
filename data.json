@@ -1,12 +1,62 @@
 [
     {
         "ayah": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
-        "translation": "Beshak mushkil ke saath aasanai hai.",
-        "tafseer": "Ye ayat batati hai ke har takleef ke baad aasani hoti hai. Yeh insaan ko sabr aur umeed ka dars deti hai."
+        "translation_urdu": "بے شک مشکل کے ساتھ آسانی ہے۔",
+        "translation_english": "Indeed, with hardship comes ease.",
+        "tafseer": "یہ آیت بتاتی ہے کہ ہر تکلیف کے بعد آسانی ہوتی ہے۔ یہ انسان کو صبر اور امید کا درس دیتی ہے۔"
     },
     {
         "ayah": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
-        "translation": "Allah asmano aur zameen ka noor hai.",
-        "tafseer": "Is ayat ka matlab hai ke Allah har jagah roshni aur hidayat ka sar chashma hai."
+        "translation_urdu": "اللہ آسمانوں اور زمین کا نور ہے۔",
+        "translation_english": "Allah is the Light of the heavens and the earth.",
+        "tafseer": "اس آیت کا مطلب ہے کہ اللہ ہر جگہ روشنی اور ہدایت کا سرچشمہ ہے۔"
+    },
+    {
+        "ayah": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ",
+        "translation_urdu": "اور جب میرے بندے تم سے میرے بارے میں پوچھیں، تو میں قریب ہوں۔",
+        "translation_english": "And when My servants ask you concerning Me, indeed I am near.",
+        "tafseer": "اللہ بندوں کے بہت قریب ہے، دعا سننے والا ہے اور قبول کرنے والا ہے۔"
+    },
+    {
+        "ayah": "لَا إِكْرَاهَ فِي الدِّينِ",
+        "translation_urdu": "دین میں کوئی زبردستی نہیں ہے۔",
+        "translation_english": "There is no compulsion in religion.",
+        "tafseer": "یہ آیت بتاتی ہے کہ اسلام میں زبردستی نہیں، ہر شخص کو حق ہے کہ وہ خود صحیح راستہ چُنے۔"
+    },
+    {
+        "ayah": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+        "translation_urdu": "پس بے شک مشکل کے ساتھ آسانی ہے۔",
+        "translation_english": "So indeed, with hardship comes ease.",
+        "tafseer": "یہ آیت انسان کو تسلی دیتی ہے کہ ہر آزمائش کے بعد آسانی آتی ہے۔"
+    },
+    {
+        "ayah": "وَقُل رَّبِّ زِدْنِي عِلْمًا",
+        "translation_urdu": "اور کہو، اے میرے رب! میرے علم میں اضافہ فرما۔",
+        "translation_english": "And say, My Lord, increase me in knowledge.",
+        "tafseer": "یہ آیت مسلمانوں کو علم حاصل کرنے کی ترغیب دیتی ہے، کیونکہ علم روشنی اور ترقی کا ذریعہ ہے۔"
+    },
+    {
+        "ayah": "وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ",
+        "translation_urdu": "اور میری کامیابی اللہ ہی کی مدد سے ہے۔",
+        "translation_english": "And my success is not but through Allah.",
+        "tafseer": "یہ آیت انسان کو یاد دلاتی ہے کہ کامیابی کا دارومدار صرف اللہ کی مدد پر ہے۔"
+    },
+    {
+        "ayah": "إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+        "translation_urdu": "بے شک اللہ بہت بخشنے والا، مہربان ہے۔",
+        "translation_english": "Indeed, Allah is Forgiving and Merciful.",
+        "tafseer": "اللہ کے بارے میں بتایا گیا ہے کہ وہ گناہوں کو معاف کرنے والا اور رحم کرنے والا ہے۔"
+    },
+    {
+        "ayah": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+        "translation_urdu": "بے شک اللہ صبر کرنے والوں کے ساتھ ہے۔",
+        "translation_english": "Indeed, Allah is with the patient.",
+        "tafseer": "یہ آیت صبر کی اہمیت بتاتی ہے کہ اللہ ہمیشہ صبر کرنے والوں کا ساتھ دیتا ہے۔"
+    },
+    {
+        "ayah": "وَتَوَكَّلْ عَلَى اللَّهِ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+        "translation_urdu": "اور اللہ پر بھروسہ کرو، اور اللہ کافی ہے کارساز۔",
+        "translation_english": "And rely upon Allah, and sufficient is Allah as Disposer of affairs.",
+        "tafseer": "یہ آیت بتاتی ہے کہ مومن کو ہر حال میں اللہ پر بھروسہ کرنا چاہیے۔"
     }
 ]
